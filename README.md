@@ -2,6 +2,7 @@
 Utilizing machine learning models, this project predicts the quality of wines based on various chemical properties, aiding in quality assessment and production optimization for winemakers.
 
 conducted a thorough analysis of a dataset containing information about wine quality. Here's a summary of what you've done:
+
         1.	Data Importing and Understanding: You imported necessary libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Plotly Express. Then, you read the dataset into a Pandas DataFrame and checked its shape and first few rows.
         2.	Data Cleaning: You checked for missing values and found none.
         3.	Data Exploration: You visualized the distribution of the 'quality' variable using a histogram.
